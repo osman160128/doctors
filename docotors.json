@@ -423,7 +423,7 @@
     "phone 2":"",
     "phone 3":"",
     "phone 4":"",
-    "dcotors": []
+    "dcotors": [{}]
   },{
     
     "hospitalname": "আনোয়ারা উপজেলা স্বাস্থ্য কমপ্লেক্স",
@@ -432,7 +432,7 @@
     "phone 2":"",
     "phone 3":"",
     "phone 4":"",
-    "dcotors": []
+    "dcotors": [{}]
   },{
     
     "hospitalname": "সূর্যের হাসি ক্লিনিক, আনোয়ারা",
@@ -441,6 +441,6 @@
     "phone 2":"",
     "phone 3":"",
     "phone 4":"",
-    "dcotors": []
+    "dcotors": [{}]
   },
 ]
